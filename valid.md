@@ -185,7 +185,7 @@
         1.项目名称不允许为空，请输入项目名称
         2.项目名称不能超过128个字符，请重新输入
 
-### <span id="repairProjectCode">维修项目编码</span>(repairProjectCode)
+### <span id="repairProjectCode">维修项目代码</span>(repairProjectCode)
 `/^[A-Z]{0,32}$/`
 
 * 最大长度为32(输入的字母默认变为大写)
